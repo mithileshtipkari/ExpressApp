@@ -1,0 +1,25 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Basic express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithileshtipkari/ExpressApp.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Mithilesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mithileshtipkari/ExpressApp/issues"
+  },
+  "homepage": "https://github.com/mithileshtipkari/ExpressApp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
